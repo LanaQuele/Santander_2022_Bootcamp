@@ -1,27 +1,13 @@
-# DesafioEcommerceAngular
+# Desafio Ecommerce Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Desafio de projeto desenvolvido durante o Bootcamp Santander Fullstack, no módulo Angular.
 
-## Development server
+Foi utilizada uma API remota gratuita de livros, que pode ser obtida [aqui](https://api.itbook.store/#api-overview).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para gerar a pasta de arquivos node_modules e .angular basta rodar o comando `npm i`.
 
-## Code scaffolding
+Use o `ng serve`para rodar a aplicação.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O filtro não foi implementado de fato nesta aplicação. O objetivo principal do desenvolvimento deste desafio é o uso do Angular no front-end obtendo dados de uma API. 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
